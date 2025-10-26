@@ -1,4 +1,4 @@
-﻿# taskmanager
+﻿# Taskmanager
 ## Task Manager API(Golang + GIN + JWT)
 A complete RESTful API built with **Go (Gin framework)** for managing tasks (Create, Read, Update, Delete) with optional **JWT authentication** and **Ngrok deployment** for public access.
 
@@ -123,3 +123,4 @@ Forwarding  https://abcd-1234.ngrok-free.app -> http://localhost:8080
 
 Now your API is accessible globally at:
 https://abcd-1234.ngrok-free.app/tasks
+
